@@ -3,8 +3,8 @@
 
 (ecosystem
  (version "1.0")
- (name "rescript-runtime-tools")
- (type "TODO: library|application|tool|framework")
+ (name "rescript-runtime-librarys")
+ (type "library|application|tool|framework")
  (purpose "TODO: Brief purpose statement")
 
  (position-in-ecosystem
